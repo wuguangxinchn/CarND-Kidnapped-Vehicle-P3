@@ -11,7 +11,7 @@ Execute the following in the top directory of the project:
 The final result is as below:  
 <img src="pf.JPG" width="600">  
 
-# Implementing the Particle Filter
+## Implementing the Particle Filter
 The directory structure of this repository is as follows:
 
 ```
